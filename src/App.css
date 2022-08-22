@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  background-image: url(https://images.wallpaperscraft.com/image/single/code_programming_symbols_140997_1920x1080.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+
+.appBar{
+  background-color: #282c34 !important;
+}
+
+.footer{
+  min-height: 20px;
+  background-color: #282c34 ;
+  color: antiquewhite;
+}
+
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.boxLogin{
+  padding: 20px;
+  border: 1px solid #ffffff42;
+  border-radius: 20px;
+  backdrop-filter: blur(10px)
+}
+
+.buttonDisable{
+  background-color: #282c34 !important;
+  color: #ffffff !important;
+}
+
+.formInput{
+  color: antiquewhite;
+}
+
+.textWhite{
+  color: #ffffff !important;
+}
